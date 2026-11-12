@@ -7,7 +7,8 @@
 ✏️ Check out my projects and repositories below!
 
 ### 📫 Connect with me!
-[LinkedIn](https://www.linkedin.com/in/prity-kumari-386769191/) | [Instagram](https://www.instagram.com/prity_kumari_31/)) 
+🤝[LinkedIn](https://www.linkedin.com/in/prity-kumari-386769191/) | 📸 [Instagram](https://www.instagram.com/prity_kumari_31/)
 
+### 📊 GitHub Stats
 ![Prity's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pritykumari253&show_icons=true&theme=radial)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritykumari253&layout=compact)
