@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hello, My name is Prity Kumari
 
-<!--
-**Pritykumari253/Pritykumari253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I am a Machine Learning professional from India.
+🔷 I am currently working at Google as a AI/ML engineer.
+🔭 I work on ML/AI based applications, research, MLOps, GenAI, and other AI tools.
+🐳 I design AI/ML based large scale products/solutions.
+✏️ Check out my projects and repositories below!
 
-Here are some ideas to get you started:
+### 📫 Connect with me!
+[LinkedIn](https://www.linkedin.com/in/prity-kumari-386769191/) | [Instagram](https://www.instagram.com/prity_kumari_31/)) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Prity's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pritykumari253&show_icons=true&theme=radial)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritykumari253&layout=compact)
