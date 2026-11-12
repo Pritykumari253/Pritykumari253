@@ -1,7 +1,7 @@
 ## 👋 Hello, My name is Prity Kumari
 
 💻 I am a Machine Learning professional from India.   
-🔷 I am currently working at Google as a AI/ML engineer. 
+🔷 I am currently working at Google as a AI/ML engineer  
 🔭 I work on ML/AI based applications, research, MLOps, GenAI, and other AI tools. 
 🐳 I design AI/ML based large scale products/solutions. 
 ✏️ Check out my projects and repositories below!
